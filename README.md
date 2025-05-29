@@ -7,4 +7,4 @@ Usage Notice:
 
 The contents of this repository are part of an original academic research article. This material is shared solely for academic transparency and reference. Reproduction, reuse, or incorporation of any part of this work in other research, projects, or publications without the author’s explicit permission is not allowed.
 
-Please respect the integrity and ownership of academic work. For any inquiries, contact the author directly.
+Please respect the integrity and ownership of academic work.
